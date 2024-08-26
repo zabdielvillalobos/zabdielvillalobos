@@ -8,7 +8,9 @@ I'm a Computer Science student at University of North Carolina at Chapel Hill. I
 💻 Tech Stack
 
 Programming Languages: Python, Java, JavaScript, HTML/CSS, SQL, Swift, C, C#, C++, R
+
 Technologies: SwiftUI, ReactJS, Git, Arduino, Firebase, Flask, Linux, Spring Boot, Docker, JavaFX, JUnit
+
 Foreign Languages: Fluent English, Fluent Spanish, Business-level proficiency in Portuguese
 
 🎯 Goals
