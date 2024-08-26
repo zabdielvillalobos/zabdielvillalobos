@@ -1,19 +1,24 @@
 ## Hi there! 👋
-## I'm Zab!
+I'm Zab!
 
 🚀 About Me
+
 I'm a Computer Science student at University of North Carolina at Chapel Hill. I'm passionate about iOS Development & Machine Learning 🤖. I love working on projects that help serve low-income communities and have an impact!
 
 💻 Tech Stack
+
 Programming Languages: Python, Java, JavaScript, HTML/CSS, SQL, Swift, C, C#, C++, R
 Technologies: SwiftUI, ReactJS, Git, Arduino, Firebase, Flask, Linux, Spring Boot, Docker, JavaFX, JUnit
 Foreign Languages: Fluent English, Fluent Spanish, Business-level proficiency in Portuguese
 
 🎯 Goals
+
 I hope to be able to leverage my skills to give back to my roots in Venezeula 🇻🇪!
+
 📫 How to Reach Me
 Email: zabdielv@unc.edu
 LinkedIn: https://www.linkedin.com/in/zabv/
+
 ⚡ Fun Fact
 My favorite soccer team is Arsenal 🔴⚪️⚪️!
 <!--
