@@ -16,6 +16,7 @@ Foreign Languages: Fluent English, Fluent Spanish, Business-level proficiency in
 I hope to be able to leverage my skills to give back to my roots in Venezeula 🇻🇪!
 
 📫 How to Reach Me
+
 Email: zabdielv@unc.edu
 LinkedIn: https://www.linkedin.com/in/zabv/
 
