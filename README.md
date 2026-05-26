@@ -3,7 +3,7 @@ I'm Zab!
 
 🚀 About Me
 
-I'm a Computer Science student at University of North Carolina at Chapel Hill. I'm passionate about iOS Development & Machine Learning 🤖. I love working on projects that help serve low-income communities and have an impact!
+I like building cool stuff. I'm a Computer Science graduate from the University of North Carolina at Chapel Hill. I'm passionate about iOS Development. I love working on projects that help serve low-income communities and have an impact!
 
 💻 Tech Stack
 
